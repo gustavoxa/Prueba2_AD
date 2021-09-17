@@ -1,0 +1,12 @@
+Bulbasaur planta
+Ivysaur planta
+Charmander fuego
+Charizard fuego
+Squirtle agua
+Wartortle agua
+Weedle bicho
+Beedril bicho
+Pikachu eléctrico
+Raichu eléctrico
+Zubat volador
+Golbat volador
