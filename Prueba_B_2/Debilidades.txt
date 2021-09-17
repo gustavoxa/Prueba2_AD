@@ -1,0 +1,6 @@
+fuego-agua
+agua-eléctrico
+eléctrico-fuego
+volador-planta
+planta.bicho
+bicho.volador
