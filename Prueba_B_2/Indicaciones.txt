@@ -1,0 +1,10 @@
+Indicaciones
+La cookie se queda grabada una vez que se ha creado
+/api/Values?usuario=Dario&password=xyz
+cuando la pagina en MVC se queda en blanco es por que se ha creado 
+la cookie del usuario caso contrario bota un error de que no se acepta 
+valores null
+una vez creada la cookie se puede acceder a buscar el tipo o la debilidad
+1 tipo de pokemon
+2 debilidad
+api/Values?parametro=2&nombre=Golbat
